@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Devnath Jayasekara
 - 👀 I’m interested in Artificial Intelligence & Data Science With ML
-- 🌱 I’m currently learning Data Secience
+- 🌱 I’m currently learning Data Science & Machine Learning
+- 📝 I recently write articles on medium.com/@devnathjayasekara
 - 💞️ I’m looking to collaborate on Industrial Structural development.
 - 📫 How to reach me on jmdevnath.c@gmail.com
 

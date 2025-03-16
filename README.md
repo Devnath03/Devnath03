@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 
-  <a href="https://www.kaggle.com/yourprofile" target="_blank">
+  <a href="https://www.kaggle.com/jmdevnath" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </p>

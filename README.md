@@ -92,28 +92,61 @@
   </a>
 </p>
 
-
 # Hi, I'm Devnath Jayasekara 👋
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Redirects to your GitHub profile when clicked -->
-  <a href="https://github.com/Devnath03" target="_blank">
+  <a href="https://github.com/Devnath03?tab=repositories" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&theme=radical&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" width="400" height="150" alt="GitHub Stats" />
   </a>
 
-  <a href="https://github.com/Devnath03" target="_blank">
+  <a href="https://github.com/Devnath03?tab=repositories" target="_blank">
     <img src="https://streak-stats.demolab.com?user=Devnath03&theme=radical" width="400" height="150" alt="GitHub Streak" />
   </a>
 </p>
 
 ## 🗣️ Most Used Languages
 
-<!-- Redirects to your GitHub profile when clicked -->
-<a href="https://github.com/Devnath03" target="_blank">
+<a href="https://github.com/Devnath03?tab=repositories" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="400" height="150" />
 </a>
+
+## 📈 Real-Time Stats (Badges)
+
+<!-- Stars Badge -->
+<img src="https://img.shields.io/github/stars/Devnath03?style=social" alt="GitHub Stars" />
+
+<!-- Commits Badge -->
+<img src="https://img.shields.io/github/commits-since/Devnath03/your-repo-name/v1.0.0?style=flat-square" alt="Commits Since" />
+
+<!-- Forks Badge -->
+<img src="https://img.shields.io/github/forks/Devnath03?style=social" alt="GitHub Forks" />
+
+<!-- Issues Badge -->
+<img src="https://img.shields.io/github/issues/Devnath03/your-repo-name?style=flat-square" alt="GitHub Issues" />
+
+## 📊 Dynamic Stats (JavaScript Example)
+<p id="stars">Total Stars: 0</p>
+<p id="commits">Total Commits: 0</p>
+
+<script>
+  fetch('https://api.github.com/users/Devnath03/repos')
+    .then(response => response.json())
+    .then(data => {
+      let stars = 0;
+      let commits = 0;
+      data.forEach(repo => {
+        stars += repo.stargazers_count;
+        // Assuming you fetch commits data here as well
+      });
+
+      // Display real-time data
+      document.getElementById('stars').textContent = `Total Stars: ${stars}`;
+      document.getElementById('commits').textContent = `Total Commits: ${commits}`;
+    })
+    .catch(error => console.error('Error fetching data:', error));
+</script>
 
 <!---
 Devnath03/Devnath03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,15 +8,15 @@
 
  ## Connect with me: 
   <p align="left">
-  <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank">
+  <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
-  </a>
+  </a> 
   
-  <a href="https://medium.com/@devnathjayasekara" target="_blank">
+  <a href="https://medium.com/@devnathjayasekara" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40" height="40">
   </a>
 
-  <a href="https://www.kaggle.com/jmdevnath" target="_blank">
+  <a href="https://www.kaggle.com/jmdevnath" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40">
   </a>
 </p>

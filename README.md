@@ -21,7 +21,7 @@
   </a>
 </p>
 
- ## Tools & Technologies: 
+ ## Tools & Languages: 
 <p align="left">
   <a href="https://www.android.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40">
@@ -90,11 +90,7 @@
   <a href="https://www.python.org/" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
   </a>
-
-<a href="https://dotnet.microsoft.com/en-us/download/dotnet" target="_blank" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt=".NET" width="40" height="40">
-</a>
-
+  
 <a href="https://kotlinlang.org/" target="_blank" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40">
 </a>
@@ -111,14 +107,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40">
 </a>
 
-<a href="https://aws.amazon.com/" target="_blank" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40">
-</a>
-
 <a href="https://getbootstrap.com/" target="_blank" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
 </a>
 
+<a href="https://github.com/Devnath03" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</a>
+
+<a href="https://gitlab.com/Devnath03" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+</a>
 </p>
 
 <!---

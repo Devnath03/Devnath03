@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:40px;">📜 Hi! I'm Devnath Jayasekara</span>
+  <span style="font-size:40px;">-👋 Hi, I’m @Devnath Jayasekara</span>
 </p>
 <br><br><br>
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 <br><br><br>
 
-- 👋 Hi, I’m @Devnath Jayasekara
+
 - 👀 I’m interested in Artificial Intelligence & Data Science With ML
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 📝 I recently write articles on devnathjayasekara.medium.com

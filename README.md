@@ -1,15 +1,17 @@
+
+## 📜 Introduction
+<br><br><br><br>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&random=true&width=600&height=54&lines=Hi%21+I'm+Devnath+Jayasekara;Data+Science+Undergraduate;Exploring+AI+and+Machine+Learning" alt="Typing Animation" />
+</p>
+<br><br><br><br><br>
+
 - 👋 Hi, I’m @Devnath Jayasekara
 - 👀 I’m interested in Artificial Intelligence & Data Science With ML
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 📝 I recently write articles on devnathjayasekara.medium.com
 - 💞️ I’m looking to collaborate on Industrial Structural development.
 - 📫 How to reach me on jmdevnath.c@gmail.com
-
-## 📜 Introduction
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Devnath+Jayasekara%21;Data+Science+Undergraduate;Exploring+AI+and+Machine+Learning&size=40" alt="Typing Animation" />
-</p>
 
  ## Connect with me: 
   <p align="left">

@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on Industrial Structural development.
 - 📫 How to reach me on jmdevnath.c@gmail.com
 
+
+ ## Connect with me: 
   <p align="left">
   <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
@@ -15,7 +17,7 @@
   </a>
 
   <a href="https://www.kaggle.com/jmdevnath" target="_blank">
-    [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=Kaggle)]
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40">
   </a>
 </p>
 

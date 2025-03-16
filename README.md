@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://www.kaggle.com/jmdevnath" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=Kaggle" alt="Kaggle">
+    [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=Kaggle)]
   </a>
 </p>
 

@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://www.kaggle.com/jmdevnath" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Kaggle-Logo.png" alt="Kaggle" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kaggle_logo.png" alt="Kaggle" width="40" height="40">
   </a>
 </p>
 

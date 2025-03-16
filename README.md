@@ -1,10 +1,11 @@
-
-## 📜 Introduction
-<br><br><br><br>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&random=true&width=600&height=54&lines=Hi%21+I'm+Devnath+Jayasekara;Data+Science+Undergraduate;Exploring+AI+and+Machine+Learning" alt="Typing Animation" />
+  <span style="font-size:40px;">📜 Hi! I'm Devnath Jayasekara</span>
 </p>
-<br><br><br><br><br>
+<br><br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=40&pause=1000&random=true&width=600&height=54&lines=Hi%21+I'm+Devnath+Jayasekara;Data+Science+Undergraduate;Exploring+AI+and+Machine+Learning" alt="Typing Animation" />
+</p>
+<br><br><br>
 
 - 👋 Hi, I’m @Devnath Jayasekara
 - 👀 I’m interested in Artificial Intelligence & Data Science With ML

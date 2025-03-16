@@ -6,11 +6,11 @@
 - 📫 How to reach me on jmdevnath.c@gmail.com
 
   <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://medium.com/@yourprofile" target="_blank">
+  <a href="https://medium.com/@devnathjayasekara" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 

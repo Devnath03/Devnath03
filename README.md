@@ -98,18 +98,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Redirects to your GitHub profile when clicked -->
+  <a href="https://github.com/Devnath03" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&theme=radical&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" width="400" height="150" alt="GitHub Stats" />
   </a>
 
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/Devnath03" target="_blank">
     <img src="https://streak-stats.demolab.com?user=Devnath03&theme=radical" width="400" height="150" alt="GitHub Streak" />
   </a>
 </p>
 
 ## 🗣️ Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Redirects to your GitHub profile when clicked -->
+<a href="https://github.com/Devnath03" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="400" height="150" />
+</a>
+
 <!---
 Devnath03/Devnath03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

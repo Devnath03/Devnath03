@@ -4,6 +4,11 @@
 - 📝 I recently write articles on devnathjayasekara.medium.com
 - 💞️ I’m looking to collaborate on Industrial Structural development.
 - 📫 How to reach me on jmdevnath.c@gmail.com
+## Animated Introduction
+![Animated Introduction](https://github.com/Devnath03/YourRepoName/blob/main/assets/animated_text.gif)
+
+### About Me
+I am a passionate **Data Science undergraduate**, exploring machine learning and AI technologies. I love working with data and building models that can make a difference!
 
 
  ## Connect with me: 

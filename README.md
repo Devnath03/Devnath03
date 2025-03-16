@@ -16,7 +16,7 @@
 - 📝 I recently write articles on devnathjayasekara.medium.com
 - 💞️ I’m looking to collaborate on Industrial Structural development.
 - 📫 How to reach me on jmdevnath.c@gmail.com
-- 
+  
  ## Connect with me: 
   <p align="left">
   <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank" style="margin-right: 10px;">

@@ -7,15 +7,16 @@
 </p>
 <br><br><br>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devnath03&bg_color=121212&color=548151&line=c5fcf6&point=97ff42&area=true&hide_border=true" />
+</p>
+
 - 👀 I’m interested in Artificial Intelligence & Data Science With ML
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 📝 I recently write articles on devnathjayasekara.medium.com
 - 💞️ I’m looking to collaborate on Industrial Structural development.
 - 📫 How to reach me on jmdevnath.c@gmail.com
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devnath03&bg_color=121212&color=548151&line=c5fcf6&point=97ff42&area=true&hide_border=true" />
-</p>
+- 
  ## Connect with me: 
   <p align="left">
   <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank" style="margin-right: 10px;">

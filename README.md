@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:40px;">-👋 Hi, I’m @Devnath Jayasekara</span>
+  <span style="font-size:40;">-👋 Hi, I’m @Devnath Jayasekara</span>
 </p>
 <br><br><br>
 <p align="center">

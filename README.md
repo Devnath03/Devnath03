@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+![Snake animation](https://github.com/Devnath03/Devnath03/blob/output/github-contribution-grid-snake.svg)
 
 
 - 👀 I’m interested in Artificial Intelligence & Data Science With ML

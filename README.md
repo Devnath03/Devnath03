@@ -20,7 +20,13 @@
 - 💞️ I’m looking to collaborate on Industrial Structural development.
 - 📫 How to reach me on jmdevnath.c@gmail.com
   
- ## Connect with me: 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnath03&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## Connect with me: 
   <p align="left">
   <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
@@ -35,11 +41,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnath03&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
  ## Tools & Languages: 
 <p align="left">

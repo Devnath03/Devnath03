@@ -14,12 +14,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devnath03&bg_color=121212&color=548151&line=c5fcf6&point=97ff42&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnath03&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 - 👀 I’m interested in Artificial Intelligence & Data Science With ML
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 📝 I recently write articles on devnathjayasekara.medium.com
@@ -39,6 +33,12 @@
   <a href="https://www.kaggle.com/jmdevnath" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnath03&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
  ## Tools & Languages: 

@@ -1,7 +1,20 @@
 <p align="center">
-  <span style="font-size:40px;">-👋 Hi, I’m @Devnath Jayasekara</span>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlign=center" />
+</p>
+<p align="center">
+  <span style="font-size:60px;">-👋 Hi, I’m @Devnath Jayasekara</span>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devnath03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<h3 align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-FB8C00?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 <br><br><br>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=40&pause=1000&random=true&width=600&height=54&lines=Hi%21+I'm+Devnath+Jayasekara;Data+Science + Machine Learning ;Exploring+AI+and+Machine+Learning" alt="Typing Animation" />
@@ -20,7 +33,15 @@
 - 📝 I recently write articles on devnathjayasekara.medium.com
 - 💞️ I’m looking to collaborate on Industrial Structural development.
 - 📫 How to reach me on jmdevnath.c@gmail.com
-  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devnath03&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devnath03&theme=github_dark" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnath03&theme=tokyonight&hide_border=true" />

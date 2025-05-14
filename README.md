@@ -14,10 +14,12 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-FB8C00?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
+
 <br><br><br>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=40&pause=1000&random=true&width=600&height=54&lines=Hi%21+I'm+Devnath+Jayasekara;Data+Science + Machine Learning ;Exploring+AI+and+Machine+Learning" alt="Typing Animation" />
 </p> -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&center=true&width=700&height=70&lines=Hi!+I'm+Devnath+Jayasekara;Exploring+AI+%26+Machine+Learning;Data+Science+Enthusiast;Exploring+AI+%26+Machine+Learning;Thanks+for+the+follow!;Exploring+AI+%26+Machine+Learning" alt="Typing Animation" />
 </p>

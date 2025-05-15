@@ -50,6 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ## Connect with me: 
   <p align="left">
   <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank" style="margin-right: 10px;">
@@ -66,7 +67,8 @@
 </p>
 
 
- ## Tools & Languages: 
+ ## Tools & Languages:
+ 
 <p align="left">
   <a href="https://www.android.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40">

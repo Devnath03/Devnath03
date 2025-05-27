@@ -68,11 +68,11 @@
   </a>
 </p>
 
-
  ## Tools & Languages:
  
 <p align="left">
-  <a href="https://www.android.com/" target="_blank" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,figma,git,github,gitlab,html,css,js,ts,python,java,php,kotlin,r,bootstrap,mysql,mongodb,nodejs,express,react,postman,vscode,linux,aws,docker,numpy,pandas,tableau,powerbi" />
+<!--   <a href="https://www.android.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40">
   </a>
   
@@ -166,7 +166,7 @@
 
 <a href="https://gitlab.com/Devnath03" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
-</a>
+</a> -->
 </p>
 
 <!---

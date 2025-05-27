@@ -71,7 +71,7 @@
  ## Tools & Languages:
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,figma,git,github,gitlab,html,css,js,ts,python,java,php,kotlin,r,bootstrap,mysql,mongodb,nodejs,express,react,postman,vscode,linux,aws,docker,numpy,pandas,tableau,powerbi,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,figma,git,github,gitlab,html,css,js,ts,python,java,php,kotlin,r,bootstrap,mysql,mongodb,nodejs,express,react,postman,vscode,androidstudio,linux,aws,docker,numpy,pandas,tableau,powerbi" />
 
   
   <!--   <a href="https://www.android.com/" target="_blank" style="margin-right: 10px;">

@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlign=center" />
 </p>
 <p align="center">
-  <span style="font-size:80px;">-👋 Hi, I’m @Devnath Jayasekara</span>
+  <span style="font-size:85px;">-👋 Hi, I’m @Devnath Jayasekara</span>
 </p>
 
 <p align="center">

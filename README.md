@@ -7,9 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devnath03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-
 </p>
+
 <h3 align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></h3>
 
 <p align="center">

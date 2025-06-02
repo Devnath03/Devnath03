@@ -5,6 +5,14 @@
   <span style="font-size:80px;">-👋 Hi, I’m @Devnath Jayasekara</span>
 </p>
 
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake](https://github.com/Devnath03/Devnath03/raw/output/github-snake.svg)
+
+![GitHub Snake dark](https://github.com/Devnath03/Devnath03/raw/output/github-snake-dark.svg?palette=github-dark)
+
+![GitHub Snake gif](https://github.com/Devnath03/Devnath03/raw/output/ocean.gif)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devnath03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>

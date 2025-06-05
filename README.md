@@ -9,7 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=Devnath03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+## 🎵 My Favorite Music
 
+[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/your_playlist_id)
+[![YouTube Music](https://img.shields.io/badge/Listen%20on-YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://music.youtube.com/playlist?list=your_playlist_id)
 
 <h3 align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></h3>
 

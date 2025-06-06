@@ -172,7 +172,7 @@
 </p>
 
 <p>
-## 🎵 My Favorite Music
+## 🎵 My Favorite Music:
 
 [![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/your_playlist_id)
 [![YouTube Music](https://img.shields.io/badge/Listen%20on-YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://music.youtube.com/playlist?list=your_playlist_id)

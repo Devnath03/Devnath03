@@ -4,7 +4,7 @@
 <p align="center">
 <!--   <span style="font-size:80px;">- 👋 Hi, I’m @Devnath Jayasekara</span> -->
   <h1 align="center"><b>👋 Hi, I’m @Devnath Jayasekara</b></h1>
-  <h5 align="center"> <i> 👇 ou're welcome to scroll down and view my GitHub profile for more details about my work ⬇️</i></h5>
+  <h4 align="center"> <i> 👇 you're welcome to scroll down and view my GitHub profile for more details about my work ⬇️</i></h4>
 </p>
 
 <p align="center">

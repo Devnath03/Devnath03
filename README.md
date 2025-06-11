@@ -56,19 +56,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
-## Connect with me: 
-  <p align="left">
-  <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank" style="margin-right: 10px;">
+## Connect with me:
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/devnath-jayasekara-233996320/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
-  </a> 
-  
-  <a href="https://medium.com/@devnathjayasekara" target="_blank" style="margin-right: 10px;">
+  </a>
+
+  <!-- Medium -->
+   <a href="https://medium.com/@devnathjayasekara" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40" height="40">
   </a>
 
-  <a href="https://www.kaggle.com/jmdevnath" target="_blank" style="margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40">
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/jmdevnath" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="90" height="40" style="vertical-align: middle;">
   </a>
 </p>
 

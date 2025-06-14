@@ -1,46 +1,42 @@
-name: Generate Snake Animation
+name: GitHub Snake Game
 
 on:
+  # Schedule the workflow to run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+  # Trigger the workflow on pushes to the main branch
   push:
     branches:
-      - Devnat
-
+      - main
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Set up job
-        run: echo "Setting up job"
-
-      - name: Pull plantane/snake
-        run: git clone --depth 1 https://github.com/plantane/snake.git
-
-      - name: Run actions/checkout@v4
-        uses: actions/checkout@v4
-
-      - name: Run plantane/snake
-        run: |
-          cd snake
-          npm install
-          npm run build
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-
-      - name: Push to output branch
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          cp -r snake/dist/* .
-          git add .
-          git commit -m "Update snake animation"
-          git push https://${{ secrets.GH_PAT }}@github.com/Devnath03/Devnath03.git output
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          # GitHub username to generate the animation for
+          github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-
-      - name: Post actions/checkout@v4
-        uses: actions/checkout@v4
-
-      - name: Complete job
-        run: echo "Job completed"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 3: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"

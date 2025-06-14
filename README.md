@@ -41,7 +41,7 @@
 - <h3><i> 🌱 I’m currently learning Data Science & Machine Learning </i></h3>
 - <h3><i> 📝 I recently write articles on devnathjayasekara.medium.com </i></h3>
 - <h3><i> 💞️ I’m looking to collaborate on Industrial Structural development. </i></h3>
-- <h4><i> 📫 How to reach me on jmdevnath.c@gmail.com </h4>
+- <h4><i> 📫 How to reach me on jmdevnath.c@gmail.com
 
 ## My Achievements on Github
 

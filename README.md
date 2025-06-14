@@ -13,14 +13,6 @@
 
 <!--[![committers.top badge](https://user-badge.committers.top/sri_lanka/Devnath03.svg)](https://user-badge.committers.top/sri_lanka/Devnath03) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake.svg" />
-</picture>
-
-
-
 <h3 align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></h3>
 
 <p align="center">

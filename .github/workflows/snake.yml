@@ -10,6 +10,7 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,17 +19,16 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
-      # Step 2: Generate the snake animations
+      # Step 2: Generate the snake animations with transparent colors
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
           # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
+          # Define the output files and their configurations with transparent colors
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-transparent.svg?background=transparent&color_snake=rgba(25,97,39,0.7)&color_dots=rgba(198,228,139,0.5),rgba(123,201,111,0.5),rgba(35,154,59,0.5),rgba(27,112,43,0.5),rgba(15,77,31,0.5)
+            dist/github-snake-dark-transparent.svg?palette=github-dark&background=transparent&color_snake=rgba(255,255,255,0.7)&color_dots=rgba(198,228,139,0.5),rgba(123,201,111,0.5),rgba(35,154,59,0.5),rgba(27,112,43,0.5),rgba(15,77,31,0.5)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
@@ -39,4 +39,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update snake animation with transparency [skip ci]"

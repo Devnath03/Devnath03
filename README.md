@@ -7,12 +7,6 @@
   <h4 align="center"> <i> 👇 you're welcome to scroll down and view my GitHub profile for more details about my work ⬇️</i></h4>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake.svg" />
-</picture>
-
 <!--[![committers.top badge](https://user-badge.committers.top/sri_lanka/Devnath03.svg)](https://user-badge.committers.top/sri_lanka/Devnath03) -->
 
 <h3 align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></h3>
@@ -33,7 +27,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&center=true&width=700&height=70&lines=Hi!+I'm+Devnath+Jayasekara;Exploring+AI+%26+Machine+Learning;Data+Science+Enthusiast;Exploring+AI+%26+Machine+Learning;Thanks+for+the+follow!;Exploring+AI+%26+Machine+Learning" alt="Typing Animation" />
 </p>
 
-<br><br>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake.svg" />
+</picture>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devnath03&bg_color=121212&color=548151&line=c5fcf6&point=97ff42&area=true&hide_border=true" />

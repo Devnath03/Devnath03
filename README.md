@@ -99,10 +99,8 @@
 
  ## Tools & Languages:
  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,figma,git,github,gitlab,firebase,flutter,gradle,illustrator,jquery,latex,nextjs,npm,postgres,powershell,regex,stackoverflow,tailwind,dotnet,html,css,js,ts,python,java,php,kotlin,r,bootstrap,mysql,mongodb,nodejs,express,react,postman,vscode,threejs,vite,androidstudio,linux,aws,docker,numpy,pandas,tableau,powerbi" />
-
-
+<!--<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,figma,git,github,gitlab,firebase,flutter,gradle,illustrator,jquery,latex,nextjs,npm,postgres,powershell,regex,stackoverflow,tailwind,dotnet,html,css,js,ts,python,java,php,kotlin,r,bootstrap,mysql,mongodb,nodejs,express,react,postman,vscode,threejs,vite,androidstudio,linux,aws,docker,numpy,pandas,tableau,powerbi" /> -->
 <p align="left">
   <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" /></a>

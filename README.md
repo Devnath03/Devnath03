@@ -12,6 +12,10 @@
 <h3 align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devnath03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-FB8C00?style=for-the-badge&logo=databricks&logoColor=white"/>

@@ -21,6 +21,24 @@
   <img src="https://img.shields.io/badge/Data%20Science-FB8C00?style=for-the-badge&logo=databricks&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge&logo=openai&logoColor=white"/>
 
+
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  </a>
+  <a href="https://www.databricks.com/solutions/data-science" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Science-FB8C00?style=for-the-badge&logo=databricks&logoColor=white"/> 
+  </a>
+  <a href="https://openai.com/research" target="_blank">
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+</p>
+
+
 </p>
 
 <br><br><br>

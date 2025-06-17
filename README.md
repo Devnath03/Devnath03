@@ -52,10 +52,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Devnath03/Devnath03/output/github-snake.svg" />
 </picture>
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devnath03&bg_color=121212&color=548151&line=c5fcf6&point=97ff42&area=true&hide_border=true" />
 </p>
+
 
 - <h3><i> 👀  I’m interested in Artificial Intelligence & Data Science With ML </i></h3>
 - <h3><i> 🌱 I’m currently learning Data Science & Machine Learning </i></h3>

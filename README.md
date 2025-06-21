@@ -57,11 +57,18 @@
 </p>
 
 
-- <h3><i> 👀  I’m interested in Artificial Intelligence & Data Science With ML </i></h3>
+<!--- <h3><i> 👀  I’m interested in Artificial Intelligence & Data Science With ML </i></h3>
 - <h3><i> 🌱 I’m currently learning Data Science & Machine Learning </i></h3>
 - <h3><i> 📝 I recently write articles on devnathjayasekara.medium.com </i></h3>
 - <h3><i> 💞️ I’m looking to collaborate on Industrial Structural development. </i></h3>
-- <h4><i> 📫 How to reach me on jmdevnath.c@gmail.com
+- <h4><i> 📫 How to reach me on jmdevnath.c@gmail.com-->
+
+- <h3><i> 👀 I’m interested in Artificial Intelligence & Data Science With ML </i></h3>
+- <h3><i> 🌱 I’m currently learning Data Science & Machine Learning </i></h3>
+- <h3><i> 📝 I recently write articles on <a href="https://devnathjayasekara.medium.com" target="_blank">devnathjayasekara.medium.com</a> </i></h3>
+- <h3><i> 💞️ I’m looking to collaborate on Industrial Structural development. </i></h3>
+- <h4><i> 📫 How to reach me on <a href="mailto:jmdevnath.c@gmail.com">jmdevnath.c@gmail.com</a> </i></h4>
+
 
 ## My Achievements on Github
 

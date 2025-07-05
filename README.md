@@ -53,6 +53,11 @@
 </picture>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devnath03&bg_color=000000&color=90ee90&line=32cd32&point=adff2f&area=true&hide_border=true" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devnath03&bg_color=121212&color=548151&line=c5fcf6&point=97ff42&area=true&hide_border=true" />
 </p>
 

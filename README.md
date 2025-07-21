@@ -117,6 +117,7 @@
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
   <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" /></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=illustrator" /></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" /></a>

@@ -83,7 +83,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnath03&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&theme=tokyonight&hide_border=true&langs_count=20" />
+
 </p>
 
 ## Connect with me:

@@ -80,7 +80,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devnath03&theme=github_dark" />
 </p>
 
-
+<p align="center">
+  <table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devnath03&show_icons=true&theme=tokyonight&hide_border=true" />
+    <br></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnath03&theme=tokyonight&hide_border=true" />
+  </td>
+  <td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&theme=tokyonight&hide_border=true&langs_count=20" />
+   </td>
+</tr>
+</table>
+</p>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnath03&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 ## Connect with me:

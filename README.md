@@ -36,6 +36,7 @@
   </a>
 </p>
 
+
 <br><br><br>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=40&pause=1000&random=true&width=600&height=54&lines=Hi%21+I'm+Devnath+Jayasekara;Data+Science + Machine Learning ;Exploring+AI+and+Machine+Learning" alt="Typing Animation" />

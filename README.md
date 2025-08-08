@@ -7,7 +7,7 @@
   <h4 align="center"> <i> 👇 you're welcome to scroll down and view my GitHub profile for more details about my work ⬇️</i></h4>
 </p>
 
-<!--[![committers.top badge](https://user-badge.committers.top/sri_lanka/Devnath03.svg)](https://user-badge.committers.top/sri_lanka/Devnath03) -->
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/Devnath03.svg)](https://user-badge.committers.top/sri_lanka/Devnath03) 
 
 <h3 align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></h3>
 

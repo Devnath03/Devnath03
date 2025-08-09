@@ -164,10 +164,36 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" /></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tableau" /></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=powerbi" /></a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" style="height:48px; width:auto;" />
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" />
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" />
+</a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="48" height="48" />
+</a>
+<a href="https://docs.python.org/3/library/pickle.html" target="_blank">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="48" height="48" />
+</a>
+<a href="https://joblib.readthedocs.io/" target="_blank">
+  <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" width="48" height="48" />
+</a>
+<a href="https://scipy.org/" target="_blank">
+  <img src="https://scipy.org/images/logo.svg" width="48" height="48" />
+</a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="48" height="48" alt="Tableau Logo" />
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI Logo" />
+</a>
 </p>
 
   
